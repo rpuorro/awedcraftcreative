@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,qCAAsC;EACpC,CAAE;IACA,gBAAgB,EAAE,KAAK;IACvB,SAAS,EAAE,IAAI",
+"sources": ["veggiegalaxy.scss"],
+"names": [],
+"file": "veggiegalaxy.css"
+}
