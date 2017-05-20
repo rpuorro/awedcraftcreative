@@ -31,18 +31,18 @@
 
     /*misc global elements*/
     body {
-    position: absolute;
-    width: 100%;
-    background-color: #ffffff;
+        position: absolute;
+        width: 100%;
+        background-color: #ffffff;
         /*-webkit-animation:spin 500s linear infinite;*/
         /*-moz-animation:spin 500s linear infinite;*/
         /*animation:spin 500s linear infinite;*/
-    /*}*/
-    /*!* Standard syntax *!*/
+        /*}*/
+        /*!* Standard syntax *!*/
 
-    /*@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }*/
-    /*@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }*/
-    /*@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }*/
+        /*@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }*/
+        /*@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }*/
+        /*@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }*/
 
     }
 
